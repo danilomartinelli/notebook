@@ -1,6 +1,6 @@
-# Bullish e Bearish Market
+# Bullish/Bearish Market
 
- 
+ ## Bullish
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyOTY5NDI5XX0=
+eyJoaXN0b3J5IjpbMTA3MjY5NTUwOF19
 -->
