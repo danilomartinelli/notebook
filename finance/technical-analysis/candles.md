@@ -9,8 +9,8 @@ O candlestick de baixa**geralmente** é representado pela cor vermelha e tem sua
 
 ### Estrutura dos Candles
 ![Estrutura dos Candles](https://raw.githubusercontent.com/danilomartinelli/notebook/master/static/calda-candlestick.png)
-
+O corpo é definido pela região entre o ponto de abertura e fechamento do candle, já a sombra é a regi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTQyNzUxLDEwOTkwOTQ2OTMsMTg5ND
-g5Njk4Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjEwMDc2MTgyOSwxMDk5MDk0NjkzLDE4OT
+Q4OTY5ODcsNzMwOTk4MTE2XX0=
 -->
