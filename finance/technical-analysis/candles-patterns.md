@@ -14,7 +14,10 @@ Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior.
 
 ### Harami de Baixa e de Alta
 Representa uma possível reversão. Ocorre quando o próximo candle tem a metade ou menos do tamanho, um Harami de baixa é representado por um candle bullish e logo depois um bearish.
+
+### Piercing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MTI3Mzk2LDEyNjQwNTA0NDQsOTEzOT
-cxMzg5LDEzMjcwMDc0ODMsNjgyMzg1NzU3XX0=
+eyJoaXN0b3J5IjpbNDU3NTA0MzUwLDk1ODEyNzM5NiwxMjY0MD
+UwNDQ0LDkxMzk3MTM4OSwxMzI3MDA3NDgzLDY4MjM4NTc1N119
+
 -->
