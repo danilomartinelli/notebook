@@ -5,7 +5,10 @@
 O martelo sempre ocorro em baixo e é um sinal que pode ocorrer uma reversão ou uma consolidação.
 
 O martelo invertido também ocorre em baixo, mas é inverso ao martelo e representa reversão.
+
+### Enforcado
+É um martelo no topo do gráfico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTkzODk1MSwxMzI3MDA3NDgzLDY4Mj
-M4NTc1N119
+eyJoaXN0b3J5IjpbMjI5MzQxOTMxLDEzMjcwMDc0ODMsNjgyMz
+g1NzU3XX0=
 -->
