@@ -11,7 +11,9 @@ O martelo invertido também ocorre em baixo, mas é inverso ao martelo e represe
 
 ### Engolfo de alta e de baixa
 Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo ocorre ao contrário em uma alta. Representa uma possível subida/queda.
+
+### Harami de Baixa e de Alta
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzOTcxMzg5LDEzMjcwMDc0ODMsNjgyMz
-g1NzU3XX0=
+eyJoaXN0b3J5IjpbMTI2NDA1MDQ0NCw5MTM5NzEzODksMTMyNz
+AwNzQ4Myw2ODIzODU3NTddfQ==
 -->
