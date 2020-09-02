@@ -7,7 +7,7 @@ O martelo sempre ocorro em baixo e é um sinal que pode ocorrer uma reversão ou
 O martelo invertido também ocorre em baixo, mas é inverso ao martelo e representa reversão ou consolidação.
 
 ### Enforcado e estrela cadente
-É um martelo no topo do gráfico, representa reversão ou consolidação. Acontece no topo também e é o inverso de um martelo
+É um martelo no topo do gráfico, representa reversão ou consolidação. Acontece no topo também e é o inverso de um martelo. Representa uma reversão.
 
 ### Engolfo de alta e de baixa
 Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo ocorre ao contrário em uma alta. Representa uma possível subida/queda.
@@ -18,7 +18,7 @@ Representa uma possível reversão. Ocorre quando o próximo candle tem a metade
 ### Piercing e Nuvem Negra
 Piercing é Candle de alta dentro do candle de queda com mais de 50% do tamanho, representa uma reversão e acontece em baixo. A nuvem negra é o inverso e acontece em um topo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI1ODg4ODYsLTk5MTYzMjE5OCw5Mz
-M3NTQzNjcsNDU3NTA0MzUwLDk1ODEyNzM5NiwxMjY0MDUwNDQ0
-LDkxMzk3MTM4OSwxMzI3MDA3NDgzLDY4MjM4NTc1N119
+eyJoaXN0b3J5IjpbODI0ODgyOTM1LC05OTE2MzIxOTgsOTMzNz
+U0MzY3LDQ1NzUwNDM1MCw5NTgxMjczOTYsMTI2NDA1MDQ0NCw5
+MTM5NzEzODksMTMyNzAwNzQ4Myw2ODIzODU3NTddfQ==
 -->
