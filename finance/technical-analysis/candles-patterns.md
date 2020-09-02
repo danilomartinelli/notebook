@@ -13,7 +13,8 @@ O martelo invertido também ocorre em baixo, mas é inverso ao martelo e represe
 Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo ocorre ao contrário em uma alta. Representa uma possível subida/queda.
 
 ### Harami de Baixa e de Alta
+Representa uma possível reversão. Ocorre quando o próximo candle tem a metade ou menos do tamanho, um Harami de baixa é representado por um candle bullish e logo depois um bearish.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NDA1MDQ0NCw5MTM5NzEzODksMTMyNz
-AwNzQ4Myw2ODIzODU3NTddfQ==
+eyJoaXN0b3J5IjpbOTU4MTI3Mzk2LDEyNjQwNTA0NDQsOTEzOT
+cxMzg5LDEzMjcwMDc0ODMsNjgyMzg1NzU3XX0=
 -->
