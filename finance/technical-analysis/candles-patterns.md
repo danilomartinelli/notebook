@@ -4,14 +4,14 @@
 ### Martelo e Martelo Invertido
 O martelo sempre ocorro em baixo e é um sinal que pode ocorrer uma reversão ou uma consolidação.
 
-O martelo invertido também ocorre em baixo, mas é inverso ao martelo e representa reversão.
+O martelo invertido também ocorre em baixo, mas é inverso ao martelo e representa reversão ou consolidação.
 
 ### Enforcado
 É um martelo no topo do gráfico, representa reversão ou consolidação.
 
 ### Engolfo de alta e de baixa
-Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo o 
+Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo ocorre ao contrário em uma alta. Representa uma possível subida/queda.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE0MTkxNDksMTMyNzAwNzQ4Myw2OD
-IzODU3NTddfQ==
+eyJoaXN0b3J5IjpbOTEzOTcxMzg5LDEzMjcwMDc0ODMsNjgyMz
+g1NzU3XX0=
 -->
