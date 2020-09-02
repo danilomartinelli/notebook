@@ -9,8 +9,9 @@ O martelo invertido também ocorre em baixo, mas é inverso ao martelo e represe
 ### Enforcado
 É um martelo no topo do gráfico, representa reversão ou consolidação.
 
-### Engolfo de alta
+### Engolfo de alta e de baixa
+Ocorre em uma queda, onde um candle bullish engolfa um candle de queda anterior. O mesmo o 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNzA3MTQyLDEzMjcwMDc0ODMsNjgyMz
-g1NzU3XX0=
+eyJoaXN0b3J5IjpbLTE5OTE0MTkxNDksMTMyNzAwNzQ4Myw2OD
+IzODU3NTddfQ==
 -->
